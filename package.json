@@ -1,0 +1,16 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "gustavo",
+    "contributors": [],
+    "dependencies": {
+        "w3-css": "4.1.0"
+    }
+}
